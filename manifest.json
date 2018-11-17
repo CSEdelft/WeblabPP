@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Weblab++",
-    "description": "You now have to wait way to long for the preview to actually render.",
+    "description": "You now have to wait way too long for the preview to actually render, fixed :)",
     "version": "1.0",
     "icons": { 
         "16": "weblabpp16.png",

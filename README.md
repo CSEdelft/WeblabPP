@@ -10,4 +10,10 @@ Instant preview on weblab, right now it is slow.
 * Reload weblab
 * Enjoy
 
+If someone has a Chrome web developer account, please upload it for ease of use :)
+
 ### Firefox
+* Go [here](https://addons.mozilla.org/en-US/firefox/addon/weblab/)
+* Click add to Firefox
+* Reload weblab
+* Enjoy
